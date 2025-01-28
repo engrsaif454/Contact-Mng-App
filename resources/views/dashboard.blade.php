@@ -41,7 +41,7 @@
                 <table class="table table-hover">
                     <thead class="table-dark">
                         <tr>
-                            <th>#</th>
+                            <th>Sl</th>
                             <th>Name</th>
                             <th>Email</th>
                             <th>Phone</th>
